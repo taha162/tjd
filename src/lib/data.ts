@@ -54,8 +54,8 @@ export const experience = [
   },
   {
     id: "exp-2",
-    role: "No-Code Android App Developer",
-    type: "Remote · Sketchware",
+    role: "No-Code Android App Developer using Sketchware",
+    type: "Remote · Freelance",
     period: "Jul 2019 – May 2022",
     category: "Development",
     accent: "purple",
@@ -94,7 +94,7 @@ export const achievements = [
     id: "ach-1",
     title: "1st Place — Turkish Language Course",
     year: "2022",
-    icon: "🥇",
+    icon: "🏆",
     org: "Turkmen Brotherhood Club",
   },
   {
@@ -108,7 +108,7 @@ export const achievements = [
     id: "ach-3",
     title: "Full Exemption from Final Exams",
     year: "2023",
-    icon: "⭐",
+    icon: "🏆",
     org: "5th Preparatory — Academic Merit Award",
   },
 ];
@@ -148,16 +148,16 @@ export const volunteering = [
 
 export const skills = {
   technical: [
-    { name: "Adobe Illustrator", level: 90, category: "Design" },
-    { name: "Adobe XD", level: 85, category: "Design" },
-    { name: "Adobe InDesign", level: 80, category: "Design" },
-    { name: "Canva", level: 92, category: "Design" },
+    { name: "Adobe Illustrator", level: 75, category: "Design" },
+    { name: "Adobe XD", level: 80, category: "Design" },
+    { name: "Adobe InDesign", level: 40, category: "Design" },
+    { name: "Canva", level: 100, category: "Design" },
     { name: "Photography & Photo Editing", level: 78, category: "Creative" },
-    { name: "C++", level: 60, category: "Programming" },
-    { name: "Python", level: 55, category: "Programming" },
-    { name: "Video Editing", level: 65, category: "Creative" },
+    { name: "C++", level: 30, category: "Programming" },
+    { name: "Python", level: 40, category: "Programming" },
+    { name: "Video Editing", level: 45, category: "Creative" },
     { name: "Microsoft Office Suite", level: 95, category: "Productivity" },
-    { name: "Android Development (No-Code)", level: 75, category: "Development" },
+    { name: "Android Development (No-Code)", level: 73, category: "Development" },
   ],
   soft: [
     "Team Leadership",
@@ -169,9 +169,9 @@ export const skills = {
   languages: [
     { lang: "Arabic", level: "Native", code: "AR", pct: 100 },
     { lang: "Turkish", level: "B2", code: "TR", pct: 72 },
-    { lang: "English", level: "B2", code: "EN", pct: 72 },
-    { lang: "French", level: "Basics", code: "FR", pct: 25 },
-    { lang: "German", level: "Basics", code: "DE", pct: 25 },
+    { lang: "English", level: "B2", code: "EN", pct: 60 },
+    { lang: "French", level: "Basics", code: "FR", pct: 15 },
+    { lang: "German", level: "Basics", code: "DE", pct: 7 },
   ],
 };
 
@@ -181,10 +181,10 @@ export const skills = {
 export const projects = [
   {
     id: "proj-1",
-    title: "Al-Bu'rah Engineering Magazine",
+    title: "مجلة البؤرة الهندسية",
     category: "Design",
     accent: "cyan",
-    tags: ["Print Design", "Typography", "Adobe InDesign"],
+    tags: ["Print Design", "Adobe InDesign"],
     description: "...",
     image: null,
     link: null,
