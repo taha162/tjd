@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "UI Designer",
     "Mosul",
     "Iraq",
-    "Taha Jasim",
+    "Taha Jasim Mohammed",
     "Portfolio",
   ],
   openGraph: {
