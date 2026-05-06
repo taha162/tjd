@@ -181,12 +181,12 @@ export const skills = {
 export const projects = [
   {
     id: "proj-1",
-    title: "مجلة البؤرة الهندسية",
+    title: "Al-Bu'rah Engineering Magazine",
     category: "Design",
     accent: "cyan",
     tags: ["Print Design", "Adobe InDesign"],
     description: "...",
-    image: null,
+    image: https://fwvvmugqkvpupwfvdubd.supabase.co/storage/v1/object/sign/gallery/magazine.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jZjVkYzIxZC1hNGFkLTRjNmItYTFmYy02ZmY0Y2Y3YmIyMjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnYWxsZXJ5L21hZ2F6aW5lLmpwZyIsImlhdCI6MTc3ODA3MDU4MiwiZXhwIjo0MTExNzM0NTgyfQ.a3f45T1TQOHlhauQJUi8VSs_hcYUCqhNVpfX9RA7fgc,
     link: null,
   },
   {
